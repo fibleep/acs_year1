@@ -2,7 +2,7 @@ package e201;
 
 public enum DayOfWeek {
     Monday(true), Tuesday(true), Wednesday(true), Thursday(true), Friday(true), Saturday(false), Sunday(false);
-    private boolean weekday;
+    boolean weekday;
 
     private DayOfWeek(boolean weekday) {
         this.weekday = weekday;

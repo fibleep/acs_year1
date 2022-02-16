@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import pandas as pd
-data=pd.read_csv('Questionnaire 21-22.csv',delimiter=';',decimal=',')
+data=pd.read_csv('Questionnaire 21-22.csv',delimiter=';',decimal='.')
 print(data)
 data.info()
 # q1a
@@ -24,6 +24,5 @@ print(f"mean: {data['Size'].mean()}")
 # q4
 print(f" sum of siblings: {sum(data['Siblings'])}")
 # q5
-data.sort_values('Travel Distance')
 data.plot.scatter(x="Travel Distance",y="Travel Time",title="Distance to KDG")
 plt.show()

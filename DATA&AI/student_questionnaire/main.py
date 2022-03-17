@@ -56,3 +56,4 @@ print(get_extreme_outliers(data['Shoe Size']))
 #q3
 print((44-data['Shoe Size'].mean())/data['Shoe Size'].std())
 print((175-data['Length'].mean())/data['Length'].std())
+

@@ -1,0 +1,1096 @@
+"stress"	"temp"	"rainfall"	"humidity"
+"normal"	18,3	2,5	72
+"mildly stressed"	7,4	2,7	69
+"mildly stressed"	12,6	2,5	76
+"normal"	14,1	2,3	73
+"mildly stressed"	12,8	3,1	85
+"mildly stressed"	9,9	2,2	80
+"normal"	19,1	2,1	78
+"mildly stressed"	10	2,2	80
+"normal"	21,9	2,3	74
+"mildly stressed"	10,2	2,5	81
+"normal"	17,9	2,5	81
+"normal"	23,4	2,3	80
+"stressed"	2,7	2,1	80
+"mildly stressed"	9	2,7	73
+"mildly stressed"	9,8	2,6	86
+"normal"	14,1	2,2	71
+"stressed"	8,9	2,6	94
+"help, i'm drowning!"	-4,4	2,5	90
+"stressed"	-3,2	2,6	83
+"normal"	18	2,4	72
+"mildly stressed"	8,8	2,1	83
+"mildly stressed"	0,5	2,6	70
+"mildly stressed"	9,6	2,2	78
+"mildly stressed"	17,4	2,5	85
+"normal"	21,2	2,8	85
+"mildly stressed"	8,1	2	80
+"mildly stressed"	9,1	2,8	79
+"stressed"	0,6	2,7	82
+"normal"	13,1	2,2	70
+"mildly stressed"	6,9	2,3	78
+"mildly stressed"	13,1	2,2	91
+"normal"	14,5	2,2	69
+"mildly stressed"	16,4	2,5	90
+"mildly stressed"	7,1	2,1	83
+"mildly stressed"	13,4	2,3	78
+"stressed"	0,9	2,3	94
+"mildly stressed"	6,1	2,3	80
+"stressed"	5,7	2,4	92
+"stressed"	-3,1	2,8	80
+"mildly stressed"	10,7	2,2	83
+"mildly stressed"	11,7	2,2	76
+"mildly stressed"	8,5	26	74
+"normal"	14,8	2,5	68
+"mildly stressed"	6,4	2,4	76
+"stressed"	2,8	2,5	84
+"normal"	13	2	73
+"mildly stressed"	6	2,7	73
+"normal"	18,7	2,5	77
+"mildly stressed"	8,1	2,6	81
+"normal"	14,2	2,2	77
+"mildly stressed"	12,4	1,9	87
+"mildly stressed"	6,1	2,2	82
+"normal"	19,4	2,1	80
+"normal"	14,2	3	73
+"mildly stressed"	11	2,3	74
+"mildly stressed"	12,1	2,3	83
+"normal"	14,4	2,7	78
+"mildly stressed"	11	2,5	87
+"stressed"	-6,3	2,5	70
+"mildly stressed"	12,1	3,1	82
+"mildly stressed"	8,5	2,4	77
+"mildly stressed"	11,6	2,9	89
+"mildly stressed"	13,8	2,4	83
+"normal"	18,4	2	74
+"mildly stressed"	6,4	1,8	72
+"normal"	17,9	2,5	81
+"mildly stressed"	12,4	2,1	78
+"normal"	16,4	2,4	79
+"normal"	15,7	2,8	79
+"mildly stressed"	14,6	2,5	84
+"mildly stressed"	4,7	2,3	73
+"stressed"	10	1,8	101
+"mildly stressed"	14,1	2,2	82
+"mildly stressed"	5,2	2,2	77
+"mildly stressed"	7,5	2,6	79
+"mildly stressed"	13,8	2,5	83
+"mildly stressed"	14,9	2,4	84
+"normal"	13,2	2,4	69
+"mildly stressed"	5,5	2,3	67
+"mildly stressed"	4,3	2,4	79
+"normal"	19,1	2,4	85
+"mildly stressed"	12	2,5	81
+"mildly stressed"	11	2,9	86
+"mildly stressed"	NA	2,1	82
+"stressed"	3,8	2,8	82
+"mildly stressed"	14	2,5	90
+"mildly stressed"	9,3	2	74
+"mildly stressed"	9,5	2,3	75
+"mildly stressed"	15,8	2,2	82
+"mildly stressed"	15,2	2,1	82
+"normal"	18,4	2	67
+"mildly stressed"	7,9	2,2	83
+"normal"	14,2	2,3	72
+"normal"	18,4	2,3	73
+"stressed"	4,3	1,8	91
+"stressed"	5,7	2,5	87
+"mildly stressed"	4,2	2,6	75
+"stressed"	2,3	2,6	90
+"mildly stressed"	11	2,6	77
+"mildly stressed"	14,2	2,4	86
+"mildly stressed"	17,3	2,8	88
+"mildly stressed"	16,4	2,1	88
+"stressed"	4,9	2	88
+"normal"	21	2,5	78
+"mildly stressed"	6,8	2,5	77
+"mildly stressed"	11,1	2,2	88
+"mildly stressed"	8,2	2,4	80
+"mildly stressed"	9,9	2,5	76
+"mildly stressed"	11,6	2,5	74
+"mildly stressed"	11,2	2,6	88
+"mildly stressed"	10,4	2,6	85
+"mildly stressed"	11,2	1,7	89
+"mildly stressed"	7,8	2,8	76
+"mildly stressed"	7,7	2,5	82
+"mildly stressed"	1,2	2,2	73
+"mildly stressed"	8,4	2,1	81
+"mildly stressed"	7,7	2,6	75
+"normal"	25,8	2,5	82
+"stressed"	2,9	2,7	80
+"mildly stressed"	11,3	2,4	89
+"stressed"	2,1	2,3	82
+"stressed"	2,2	3	78
+"normal"	11,2	1,8	69
+"mildly stressed"	4,9	2,5	77
+"mildly stressed"	10,5	2,5	76
+"mildly stressed"	8,1	NA	NA
+"mildly stressed"	7,1	2,5	83
+"stressed"	-0,9	2,3	76
+"stressed"	3,6	2,7	81
+"mildly stressed"	11,6	1,7	81
+"mildly stressed"	13,7	2,2	82
+"mildly stressed"	7,8	2,3	78
+"mildly stressed"	10,5	2,4	87
+"mildly stressed"	16,9	2,5	88
+"normal"	18,7	2,5	73
+"stressed"	4,4	2	86
+"mildly stressed"	9,9	2,4	75
+"normal"	17,3	2,5	81
+"mildly stressed"	7,9	2,7	86
+"mildly stressed"	10,2	2,3	83
+"mildly stressed"	10,1	2,8	80
+"mildly stressed"	5,5	2,3	81
+"stressed"	8	2,4	94
+"mildly stressed"	10,4	2,4	89
+"mildly stressed"	8,2	2,2	80
+"normal"	16,8	2,6	78
+"stressed"	7,8	2	91
+"mildly stressed"	8,1	2,4	81
+"mildly stressed"	14,5	2,2	82
+"stressed"	4,6	2,2	88
+"mildly stressed"	10,3	2,7	76
+"stressed"	1,8	2,7	77
+"normal"	17,1	2,8	78
+"mildly stressed"	9	2,3	81
+"mildly stressed"	7,9	2,4	65
+"mildly stressed"	3,6	1,9	77
+"mildly stressed"	10,5	2,3	84
+"mildly stressed"	6	2,8	82
+"mildly stressed"	7,5	2,3	82
+"normal"	17,8	2,1	70
+"mildly stressed"	9,6	2,4	81
+"mildly stressed"	4,5	2,7	79
+"mildly stressed"	11,5	1,9	80
+"mildly stressed"	8,5	2,3	85
+"mildly stressed"	13,9	2,5	89
+"normal"	18,6	2,9	78
+"mildly stressed"	4,9	2,2	76
+"mildly stressed"	NA	2,8	NA
+"mildly stressed"	11	2,3	85
+"normal"	15,6	2,1	79
+"mildly stressed"	9,2	2,1	77
+"normal"	15,3	2,3	80
+"stressed"	0,7	2,4	88
+"normal"	20,1	2,3	74
+"normal"	15,4	2,7	78
+"mildly stressed"	9,7	2,4	74
+"stressed"	2,4	2,3	94
+"normal"	14,2	2,2	77
+"mildly stressed"	13,3	2	85
+"mildly stressed"	10,5	1,8	80
+"mildly stressed"	11,4	2,4	79
+"mildly stressed"	7,2	2,4	78
+"mildly stressed"	12,6	2,7	75
+"mildly stressed"	12,2	2,4	88
+"mildly stressed"	9	2,6	84
+"stressed"	3	2,4	80
+"normal"	14,5	2,1	73
+"mildly stressed"	13,7	2,4	77
+"stressed"	5,8	2,5	86
+"mildly stressed"	1,5	2,1	74
+"mildly stressed"	11,7	2,4	76
+"mildly stressed"	8,6	2,9	85
+"mildly stressed"	12	2,1	82
+"mildly stressed"	3,2	2,8	76
+"stressed"	5,1	2,3	90
+"normal"	16,7	2,8	73
+"mildly stressed"	12,8	2,1	89
+"mildly stressed"	13,8	2,3	85
+"zen"	20,8	2,5	67
+"mildly stressed"	11,3	2,3	82
+"stressed"	-0,7	2,5	85
+"mildly stressed"	12,4	2,3	75
+"normal"	17,1	2,7	80
+"zen"	22,2	2,4	70
+"mildly stressed"	2,8	2,6	74
+"stressed"	4,1	2	81
+"mildly stressed"	6,6	2,2	82
+"mildly stressed"	4,6	2,7	80
+"mildly stressed"	6,9	2,5	75
+"mildly stressed"	9,5	2,3	84
+"stressed"	3,8	2,3	88
+"normal"	22	2,6	76
+"mildly stressed"	11,1	2,3	80
+"mildly stressed"	10,1	2,4	77
+"mildly stressed"	13,3	1,9	79
+"mildly stressed"	10,8	2,8	81
+"mildly stressed"	9,8	2,6	79
+"normal"	18,9	2,6	78
+"mildly stressed"	9,3	1,9	77
+"stressed"	3,3	2,4	80
+"mildly stressed"	12,7	2,3	79
+"mildly stressed"	8,6	2	77
+"mildly stressed"	7,6	2,6	82
+"stressed"	4,5	2,7	82
+"mildly stressed"	13	2,2	81
+"mildly stressed"	9,6	2,3	73
+"mildly stressed"	13,5	2,8	82
+"mildly stressed"	9,2	1,9	83
+"mildly stressed"	6,8	2,6	78
+"normal"	17,6	2,3	83
+"mildly stressed"	9	2,3	88
+"mildly stressed"	15,9	2,2	82
+"stressed"	3,8	2,7	85
+"mildly stressed"	7,9	2,1	88
+"mildly stressed"	9	2,6	90
+"mildly stressed"	8,3	2,7	77
+"normal"	18,1	1,9	77
+"mildly stressed"	10,4	2,1	78
+"mildly stressed"	11,9	2,5	87
+"stressed"	5,2	2,1	84
+"stressed"	6,4	2,2	86
+"normal"	16,2	2,2	82
+"normal"	17,6	2,3	78
+"normal"	17,6	2,6	71
+"mildly stressed"	2,8	2,2	70
+"normal"	22,1	2,4	92
+"normal"	16,3	2,6	80
+"mildly stressed"	10,4	2	83
+"mildly stressed"	14,5	2,2	84
+"stressed"	5,1	2,6	89
+"stressed"	4,4	2,3	84
+"mildly stressed"	10,8	1,7	80
+"stressed"	3,8	2,1	85
+"mildly stressed"	11,6	2,6	82
+"normal"	17,9	2,3	76
+"stressed"	4,7	2,3	86
+"mildly stressed"	6,4	2,3	81
+"mildly stressed"	10,8	2,6	80
+"mildly stressed"	4,8	2,2	74
+"mildly stressed"	8,4	2,5	87
+"normal"	15,5	2,5	78
+"normal"	16	2,1	79
+"mildly stressed"	12,7	2,4	80
+"stressed"	0,1	2,2	80
+"mildly stressed"	10,2	2,5	83
+"mildly stressed"	16,5	2	85
+"mildly stressed"	15,1	2,8	83
+"mildly stressed"	9,5	2,7	71
+"stressed"	-4,7	2,1	65
+"mildly stressed"	10,9	2,2	78
+"mildly stressed"	13,8	2,1	79
+"mildly stressed"	10,8	2,3	79
+"normal"	11,4	2,2	71
+"mildly stressed"	13	2,4	76
+"mildly stressed"	8,3	1,9	69
+"mildly stressed"	17,9	2,4	96
+"mildly stressed"	13,2	2,4	83
+"stressed"	3,5	1,9	80
+"normal"	18,3	2,4	68
+"normal"	17,3	2,4	78
+"mildly stressed"	15,2	2,3	85
+"stressed"	1,2	2,4	85
+"mildly stressed"	7,3	2,5	83
+"mildly stressed"	14,1	2,5	89
+"normal"	10,8	2,3	69
+"normal"	12,5	2,7	73
+"normal"	24,4	2,4	80
+"mildly stressed"	5,9	2,3	81
+"stressed"	-1,4	2,6	77
+"mildly stressed"	12,1	2,6	87
+"mildly stressed"	6,7	2,2	68
+"normal"	13,1	2,1	74
+"stressed"	6	2,2	90
+"normal"	23	2,1	85
+"mildly stressed"	9,8	1,9	71
+"mildly stressed"	7,8	2,5	85
+"mildly stressed"	9,6	2,3	82
+"normal"	15,4	2,5	72
+"mildly stressed"	11,1	2,4	82
+"stressed"	1,4	2,5	85
+"mildly stressed"	10,5	2,2	74
+"mildly stressed"	14,8	2,1	83
+"mildly stressed"	10,8	2,6	72
+"mildly stressed"	14,7	2,6	83
+"mildly stressed"	9,7	1,9	74
+"mildly stressed"	10,2	2,6	78
+"normal"	13,3	1,9	74
+"mildly stressed"	16,1	2,4	84
+"mildly stressed"	3,5	2,3	79
+"mildly stressed"	10,4	2,3	83
+"mildly stressed"	10,1	2,7	84
+"mildly stressed"	6,3	2	80
+"mildly stressed"	4,7	2,3	79
+"mildly stressed"	7	3,1	82
+"mildly stressed"	13,9	2	84
+"mildly stressed"	8,2	2,2	80
+"mildly stressed"	6,1	2,4	83
+"mildly stressed"	11,5	2,4	85
+"stressed"	3,6	2,2	84
+"mildly stressed"	16,4	2,3	88
+"mildly stressed"	7,8	2,7	68
+"mildly stressed"	11,6	2,3	82
+"mildly stressed"	10,8	2,4	81
+"mildly stressed"	10,5	2,5	75
+"normal"	20,7	2,5	75
+"mildly stressed"	5,9	2,5	83
+"normal"	17	2,4	78
+"mildly stressed"	10,7	2,2	78
+"mildly stressed"	5,8	2,4	83
+"mildly stressed"	10,2	2,1	87
+"mildly stressed"	14,8	2,4	93
+"mildly stressed"	8,1	2,3	85
+"stressed"	6,2	2,3	92
+"mildly stressed"	11,4	2,1	88
+"normal"	16,1	2,3	82
+"mildly stressed"	10,1	2,1	82
+"stressed"	2,7	2,3	92
+"mildly stressed"	3,2	2,5	74
+"mildly stressed"	6,2	2,4	80
+"mildly stressed"	7,6	2,6	81
+"normal"	10,4	2,5	66
+"normal"	14,3	2,4	78
+"mildly stressed"	8,1	2,6	82
+"mildly stressed"	4,3	2,7	63
+"mildly stressed"	14	2	82
+"mildly stressed"	12,1	2,6	78
+"normal"	17,1	2,6	83
+"stressed"	1,1	2,6	84
+"mildly stressed"	11	2,1	89
+"normal"	18,2	3	70
+"mildly stressed"	14,6	1,7	80
+"mildly stressed"	5,8	2,4	76
+"mildly stressed"	14,7	2,4	80
+"mildly stressed"	5,6	2,3	79
+"mildly stressed"	8	2,6	73
+"normal"	17,2	2,4	69
+"stressed"	8,9	2,2	93
+"normal"	15,2	2,7	72
+"mildly stressed"	8,9	2,3	82
+"mildly stressed"	1,7	2,5	73
+"stressed"	5,8	2,2	89
+"mildly stressed"	4,4	2,1	69
+"mildly stressed"	7,8	2,2	75
+"mildly stressed"	8,6	2,1	73
+"mildly stressed"	9,7	2,5	80
+"mildly stressed"	9,2	1,9	77
+"mildly stressed"	21,2	2,1	95
+"stressed"	2,7	2,4	80
+"mildly stressed"	8,2	1,9	88
+"mildly stressed"	12,5	2,2	85
+"normal"	19,7	2,3	84
+"mildly stressed"	11	2,7	83
+"normal"	17,5	2,3	82
+"stressed"	1,3	2,2	76
+"normal"	18,7	2,2	78
+"mildly stressed"	6,6	2,5	83
+"normal"	9	2,3	65
+"mildly stressed"	4,3	2,2	69
+"mildly stressed"	11,3	2,3	77
+"normal"	20,6	2,7	69
+"normal"	24,2	2,8	81
+"stressed"	4,5	2,2	83
+"mildly stressed"	13,3	2,4	85
+"normal"	18,4	2,3	87
+"mildly stressed"	9,4	2,9	83
+"mildly stressed"	9,3	2,5	83
+"mildly stressed"	8,8	1,9	81
+"mildly stressed"	13,9	2,3	80
+"normal"	18,4	1,7	75
+"mildly stressed"	14,4	2,3	94
+"mildly stressed"	12,3	2,6	75
+"mildly stressed"	8,8	2,1	90
+"mildly stressed"	13,4	2	86
+"stressed"	7,4	2,7	92
+"mildly stressed"	9	2,1	84
+"normal"	16,7	2,6	77
+"mildly stressed"	13	2,4	78
+"normal"	11,9	2,6	72
+"mildly stressed"	9,1	2,6	86
+"normal"	15,8	2,7	80
+"normal"	18,1	2,7	80
+"mildly stressed"	5,6	2,4	80
+"mildly stressed"	10,9	2,4	76
+"mildly stressed"	10,8	2,1	77
+"mildly stressed"	7,3	2	85
+"stressed"	4,9	2,2	88
+"mildly stressed"	10,5	2,3	80
+"mildly stressed"	14,2	2,1	81
+"normal"	18,9	2,6	81
+"stressed"	-0,2	2,2	81
+"mildly stressed"	6,6	2,5	79
+"mildly stressed"	8,8	2,6	83
+"stressed"	1,2	2	84
+"mildly stressed"	6,3	2,6	81
+"mildly stressed"	6,2	1,8	83
+"mildly stressed"	6,5	2,4	77
+"stressed"	-1,8	2,8	81
+"mildly stressed"	11,7	2,5	84
+"mildly stressed"	7	2,6	79
+"normal"	19,1	2,2	79
+"normal"	15	2,4	77
+"stressed"	2,3	2,7	83
+"mildly stressed"	11,1	2	82
+"stressed"	7,2	2,6	96
+"normal"	15,6	2	79
+"mildly stressed"	10,8	2,2	81
+"mildly stressed"	7,4	3,1	74
+"mildly stressed"	13	2,5	85
+"mildly stressed"	11,4	2,3	78
+"mildly stressed"	9,6	2,6	81
+"normal"	21,9	2,3	86
+"stressed"	7,6	2,5	89
+"mildly stressed"	7,9	2,3	78
+"stressed"	1,8	1,7	78
+"mildly stressed"	10,3	2,5	81
+"mildly stressed"	15,6	2,2	87
+"stressed"	-1,1	2,2	81
+"mildly stressed"	9,1	2,4	81
+"stressed"	3,9	2,7	85
+"normal"	18,7	2,4	84
+"mildly stressed"	18,2	2,6	87
+"normal"	12,4	2,5	68
+"normal"	18,6	2,4	73
+"mildly stressed"	5,6	2,5	73
+"mildly stressed"	15,9	2,3	82
+"mildly stressed"	7,2	2	72
+"mildly stressed"	12,4	2,5	79
+"mildly stressed"	8,9	1,8	83
+"stressed"	9	2,1	92
+"mildly stressed"	13,6	2,4	79
+"stressed"	3,2	2,3	80
+"mildly stressed"	9,1	2,3	81
+"mildly stressed"	11,5	2,6	76
+"normal"	8,3	2,1	60
+"mildly stressed"	11,1	1,7	89
+"mildly stressed"	8,7	2,6	78
+"normal"	19,7	2,4	76
+"mildly stressed"	14,6	2,3	82
+"zen"	27,3	2,3	76
+"stressed"	6,1	1,9	86
+"normal"	15,1	2,1	77
+"normal"	22,4	2,5	85
+"mildly stressed"	12,2	2,4	79
+"mildly stressed"	4,4	2	74
+"stressed"	4,9	2,5	84
+"stressed"	10,3	2,6	95
+"normal"	17,9	2,3	74
+"normal"	14,8	2,4	77
+"stressed"	-1,5	2,7	73
+"stressed"	6,6	2,5	90
+"mildly stressed"	10,5	2,7	81
+"mildly stressed"	2,3	2,4	66
+"normal"	14,5	2,8	67
+"stressed"	-3,3	2,3	86
+"mildly stressed"	11,3	2,6	82
+"mildly stressed"	8,3	2,3	68
+"mildly stressed"	7,8	2,1	73
+"mildly stressed"	8,9	2,6	82
+"mildly stressed"	12,3	3	80
+"normal"	12,8	2,3	69
+"mildly stressed"	9,3	2,8	85
+"stressed"	-0,3	2,3	77
+"stressed"	2,4	2,6	88
+"stressed"	2,3	2,1	83
+"mildly stressed"	14,8	2,4	87
+"mildly stressed"	9,2	2,2	68
+"mildly stressed"	12,1	2	85
+"stressed"	1,7	2,5	86
+"mildly stressed"	7,5	2,8	83
+"normal"	13,7	2,2	73
+"mildly stressed"	9,5	2,1	80
+"normal"	9,9	2,1	68
+"mildly stressed"	10,1	2,2	76
+"normal"	17,4	2,5	75
+"mildly stressed"	7,1	2,6	82
+"mildly stressed"	14,4	2,5	93
+"mildly stressed"	15,6	2,6	82
+"mildly stressed"	3,8	2,2	77
+"mildly stressed"	11,2	2,3	86
+"mildly stressed"	10,5	2,6	85
+"normal"	16,3	2,3	81
+"normal"	15,7	2,1	76
+"mildly stressed"	10,5	2	84
+"mildly stressed"	11,3	3,1	84
+"mildly stressed"	6,5	1,9	82
+"mildly stressed"	9,4	2,4	92
+"stressed"	4,7	2,9	94
+"mildly stressed"	5,1	2,6	74
+"stressed"	3,7	2,3	82
+"normal"	15,3	2,5	72
+"normal"	16,8	2,8	77
+"mildly stressed"	8,2	2,4	77
+"mildly stressed"	4,2	2,2	79
+"mildly stressed"	10	2,8	91
+"normal"	23,2	2,9	75
+"normal"	22,1	2,1	83
+"stressed"	0,8	2,6	85
+"mildly stressed"	8,5	2,4	81
+"normal"	19,2	2,6	83
+"mildly stressed"	10,3	2,5	76
+"normal"	19,6	2,4	77
+"mildly stressed"	8,7	2,5	76
+"normal"	14	2	67
+"mildly stressed"	11,8	2	84
+"zen"	28,8	2,6	77
+"normal"	15,7	2,4	79
+"stressed"	3,7	2,3	84
+"mildly stressed"	7,1	1,9	80
+"mildly stressed"	12,6	2,2	79
+"stressed"	-0,2	2,4	77
+"stressed"	0,4	2,2	90
+"stressed"	4,2	2,4	81
+"mildly stressed"	8,6	2,5	81
+"mildly stressed"	17,5	2,3	86
+"mildly stressed"	9	2,5	82
+"mildly stressed"	11,5	2,3	75
+"mildly stressed"	10,2	2,3	77
+"mildly stressed"	6,6	2,3	75
+"normal"	18,2	2,5	70
+"mildly stressed"	4,4	2,6	79
+"mildly stressed"	9,3	3	84
+"mildly stressed"	8,6	2,1	77
+"mildly stressed"	13,5	2,2	83
+"normal"	19,6	2,5	85
+"mildly stressed"	13,4	2,8	79
+"normal"	18,3	2,7	77
+"normal"	14,8	2,2	76
+"mildly stressed"	7	2,2	78
+"mildly stressed"	11	2,8	90
+"normal"	18,3	2,8	81
+"stressed"	1,7	2,4	77
+"mildly stressed"	12,4	2,8	77
+"mildly stressed"	9,7	2,4	80
+"mildly stressed"	15,5	2,1	81
+"mildly stressed"	14,8	2,4	88
+"mildly stressed"	12,2	2,4	77
+"normal"	19	1,9	86
+"stressed"	1,9	2,3	76
+"normal"	15,7	2,3	81
+"stressed"	1,6	2,5	78
+"mildly stressed"	13,9	2,2	86
+"mildly stressed"	11	2,5	88
+"mildly stressed"	16	2,5	89
+"mildly stressed"	11	2,3	84
+"stressed"	1,7	2,4	77
+"stressed"	-0,8	3	79
+"mildly stressed"	13,6	2,8	82
+"normal"	10,1	2,8	67
+"stressed"	7,3	2,4	89
+"mildly stressed"	8,8	2,1	73
+"mildly stressed"	6,8	2,5	77
+"mildly stressed"	9,7	2,4	88
+"mildly stressed"	5,3	3,3	82
+"stressed"	-0,6	1,8	83
+"mildly stressed"	9,3	2,3	75
+"normal"	16,4	2,8	70
+"normal"	21,1	1,8	75
+"mildly stressed"	10,6	2,3	83
+"mildly stressed"	10,1	2,5	84
+"normal"	16	2,3	80
+"mildly stressed"	10,8	2,1	78
+"mildly stressed"	8,1	2,3	82
+"stressed"	0,7	2,7	76
+"stressed"	3,4	2	83
+"normal"	12,8	2,7	73
+"stressed"	2,3	2,6	91
+"normal"	16,5	2	63
+"stressed"	2,9	2	89
+"mildly stressed"	9,4	2,4	76
+"mildly stressed"	10,5	2,4	88
+"mildly stressed"	10,5	2,7	71
+"mildly stressed"	11,4	2,4	78
+"mildly stressed"	13,9	2,5	81
+"mildly stressed"	9,8	2,7	74
+"mildly stressed"	9,1	2,7	77
+"mildly stressed"	11,4	2,6	83
+"mildly stressed"	8,1	2,5	83
+"normal"	19,2	2,5	72
+"stressed"	-1,7	2,7	74
+"normal"	16,3	2,7	81
+"mildly stressed"	9,1	2,4	89
+"mildly stressed"	12,9	2,5	85
+"normal"	16,1	2,8	71
+"normal"	15,3	2,8	76
+"mildly stressed"	6,8	2,1	69
+"normal"	19,4	2,8	85
+"stressed"	1,4	2,3	75
+"normal"	15,4	1,9	80
+"mildly stressed"	7,7	2,7	84
+"stressed"	-0,3	2,4	79
+"stressed"	0	2,6	75
+"mildly stressed"	11,9	2,9	81
+"zen"	23,1	2,7	72
+"mildly stressed"	12,1	2,3	94
+"normal"	16,9	2,3	65
+"mildly stressed"	15,3	2,1	93
+"mildly stressed"	6,8	2,1	83
+"normal"	15,9	2,5	76
+"mildly stressed"	12,5	2,3	82
+"mildly stressed"	11,7	2,5	80
+"mildly stressed"	16,2	2,6	94
+"mildly stressed"	14,8	2,5	93
+"mildly stressed"	7	2,3	85
+"mildly stressed"	12,8	2	78
+"mildly stressed"	5,5	2,4	81
+"normal"	14,1	2,1	75
+"mildly stressed"	8,1	2,5	74
+"mildly stressed"	13,1	2,6	78
+"mildly stressed"	12,6	2,5	89
+"mildly stressed"	9	2,1	77
+"mildly stressed"	13,2	2,2	82
+"mildly stressed"	13,8	2,2	88
+"mildly stressed"	9,2	2,4	83
+"normal"	17,2	3	83
+"normal"	18,4	2,1	76
+"mildly stressed"	6,8	1,8	81
+"mildly stressed"	6,2	2,3	74
+"normal"	13,4	2,1	75
+"mildly stressed"	5,4	1,8	73
+"mildly stressed"	8	2,1	77
+"mildly stressed"	15,1	2,3	82
+"mildly stressed"	7,3	2,1	79
+"stressed"	-0,3	2,6	74
+"normal"	14,3	2,6	74
+"mildly stressed"	1,5	2,3	72
+"stressed"	2,9	2	82
+"stressed"	-6,5	2,5	82
+"normal"	15,2	2,1	71
+"normal"	12	2,1	70
+"mildly stressed"	13,1	2,4	80
+"normal"	15,3	2,1	77
+"mildly stressed"	10,3	2,3	73
+"stressed"	4,3	2,2	86
+"mildly stressed"	13,7	2,5	80
+"normal"	17,9	2,1	80
+"stressed"	2,1	2,1	84
+"mildly stressed"	7,1	2,1	83
+"mildly stressed"	8,9	2,4	78
+"mildly stressed"	3,3	2,7	73
+"mildly stressed"	14,5	2,1	87
+"mildly stressed"	7,2	2,4	70
+"mildly stressed"	17,6	2,2	88
+"mildly stressed"	10,8	2,1	77
+"mildly stressed"	14,6	2,7	93
+"normal"	19,3	2,2	79
+"mildly stressed"	12	2,8	77
+"normal"	16,6	2,2	80
+"mildly stressed"	11,7	2,5	88
+"mildly stressed"	2	2,7	69
+"mildly stressed"	10,7	2,9	78
+"mildly stressed"	14,6	2,1	82
+"mildly stressed"	13,3	2,4	81
+"mildly stressed"	9,6	2,6	81
+"mildly stressed"	3,7	2,2	78
+"normal"	14,2	2,5	73
+"stressed"	5,4	2,3	97
+"mildly stressed"	3,5	2,1	71
+"mildly stressed"	13,9	1,8	86
+"mildly stressed"	3,6	2,5	73
+"normal"	11,9	2,3	68
+"mildly stressed"	10,6	2,8	81
+"stressed"	3	2,1	93
+"normal"	17,2	2,2	84
+"mildly stressed"	7,2	2,6	70
+"normal"	17,3	2,3	76
+"mildly stressed"	7,9	2,5	75
+"mildly stressed"	7,3	2,7	73
+"mildly stressed"	10,4	3	86
+"stressed"	8,5	2,4	95
+"mildly stressed"	8,5	2,1	71
+"stressed"	5,6	2,1	85
+"mildly stressed"	3,7	2,2	73
+"mildly stressed"	14	2,3	87
+"mildly stressed"	6	2	81
+"stressed"	2,8	2,5	78
+"mildly stressed"	7,7	2,8	84
+"stressed"	6	2,2	93
+"stressed"	-1,8	2,1	89
+"mildly stressed"	8,9	2	79
+"mildly stressed"	11,5	2,6	85
+"normal"	12,2	2,4	73
+"mildly stressed"	12,8	1,9	83
+"stressed"	4,9	2,3	86
+"mildly stressed"	8,7	2,4	83
+"mildly stressed"	4,9	2,1	76
+"mildly stressed"	7	2	80
+"mildly stressed"	3,7	2,2	76
+"stressed"	4,2	2,2	83
+"mildly stressed"	14,1	2,2	78
+"mildly stressed"	9	1,7	79
+"mildly stressed"	9,1	2,3	76
+"normal"	20,3	2,6	86
+"mildly stressed"	10,2	2,7	82
+"mildly stressed"	7,5	2,9	74
+"mildly stressed"	14,8	2,4	82
+"mildly stressed"	7,8	2,1	77
+"normal"	18,3	2,5	81
+"stressed"	8,4	2,7	91
+"mildly stressed"	7,1	2,9	74
+"stressed"	4	2,6	81
+"normal"	12,4	2,8	71
+"normal"	18,8	2,5	84
+"mildly stressed"	8,5	2	71
+"normal"	12	2,1	70
+"mildly stressed"	12,4	2,9	83
+"normal"	18,6	2,6	75
+"normal"	14,3	2,2	68
+"mildly stressed"	4,5	2,2	72
+"stressed"	6,6	2,1	87
+"mildly stressed"	6,3	2,4	81
+"mildly stressed"	11,3	2,3	81
+"mildly stressed"	10,5	2,1	85
+"mildly stressed"	12,6	2,7	81
+"normal"	6,8	2,4	61
+"mildly stressed"	8,4	2,6	80
+"normal"	14,7	2,3	71
+"mildly stressed"	10	2,4	74
+"mildly stressed"	6,9	2,6	70
+"mildly stressed"	16	2,5	82
+"mildly stressed"	10,6	2,6	94
+"mildly stressed"	5,4	1,9	83
+"mildly stressed"	20,2	2,4	92
+"mildly stressed"	4	2,3	79
+"stressed"	0,5	2,2	77
+"stressed"	-2,2	2,2	85
+"normal"	14,2	2,8	72
+"mildly stressed"	7,5	2,5	72
+"normal"	9	2,3	62
+"normal"	12,2	2,6	66
+"mildly stressed"	7,9	2,2	77
+"stressed"	1,5	2,4	81
+"stressed"	-0,5	2,8	78
+"mildly stressed"	8,6	2,3	68
+"mildly stressed"	11,5	2,2	73
+"stressed"	-2,3	2,2	75
+"mildly stressed"	12,2	2,1	85
+"mildly stressed"	12,9	2,4	82
+"normal"	17,8	2,5	75
+"normal"	11,5	2,6	70
+"mildly stressed"	11,7	2,9	79
+"normal"	14	2,7	69
+"mildly stressed"	10,4	2	76
+"mildly stressed"	10,1	2,9	78
+"mildly stressed"	11,2	2,4	87
+"mildly stressed"	14,7	2,3	85
+"mildly stressed"	8,1	2,9	81
+"mildly stressed"	7,7	2,5	79
+"mildly stressed"	5,7	2,8	77
+"stressed"	5,1	2,4	84
+"normal"	12,4	2,2	71
+"normal"	19,3	1,8	78
+"stressed"	5,1	2,7	87
+"mildly stressed"	9,5	2,1	75
+"mildly stressed"	4,7	2,6	71
+"normal"	15,7	2,4	80
+"mildly stressed"	8,8	2,5	82
+"mildly stressed"	11,6	2,7	90
+"normal"	12,5	2,2	74
+"mildly stressed"	4,6	2,2	77
+"mildly stressed"	10	2,3	88
+"mildly stressed"	9,3	2,7	78
+"mildly stressed"	14,4	2,2	82
+"stressed"	3,6	2,3	83
+"stressed"	3,8	2,6	88
+"mildly stressed"	14,9	2,6	86
+"mildly stressed"	7,2	2,6	80
+"mildly stressed"	6,8	2,4	72
+"mildly stressed"	11,2	2,6	79
+"mildly stressed"	8,7	2,4	84
+"normal"	21,1	2,2	88
+"mildly stressed"	12	2,9	84
+"normal"	11,5	1,9	71
+"normal"	15,8	2,6	81
+"mildly stressed"	10,2	2,5	73
+"mildly stressed"	10,8	2,4	77
+"mildly stressed"	4,5	2,2	73
+"stressed"	-2,4	2,3	90
+"mildly stressed"	3,7	2,9	79
+"mildly stressed"	11,2	2,3	91
+"mildly stressed"	4,7	2,3	69
+"normal"	14,4	2,1	75
+"mildly stressed"	14,6	2,2	85
+"mildly stressed"	11,8	2,3	77
+"mildly stressed"	9,4	2	92
+"mildly stressed"	2,8	2,7	76
+"mildly stressed"	8,8	2,4	67
+"mildly stressed"	8	2,8	79
+"normal"	14,3	2,6	78
+"normal"	17,9	2,7	79
+"normal"	13,4	2	75
+"mildly stressed"	4,2	2,5	76
+"normal"	20	2,3	75
+"normal"	16,2	2,4	77
+"mildly stressed"	11,8	2,2	73
+"stressed"	-1,9	2,4	87
+"mildly stressed"	5,2	2,4	75
+"mildly stressed"	10,2	1,8	88
+"normal"	14,8	2,6	71
+"stressed"	3,9	2,4	85
+"zen"	28,7	2,1	76
+"stressed"	-3,9	2,1	81
+"mildly stressed"	9,2	2,2	85
+"mildly stressed"	9,1	1,9	74
+"mildly stressed"	6,8	2,4	81
+"mildly stressed"	8,7	2,8	80
+"normal"	14,7	2,4	73
+"mildly stressed"	5,6	2,5	83
+"mildly stressed"	-1,2	2	66
+"mildly stressed"	11,1	2	89
+"mildly stressed"	10,5	2,1	87
+"mildly stressed"	10,5	2,6	79
+"normal"	14,3	2,1	77
+"mildly stressed"	10,5	2,5	82
+"normal"	14,9	2,3	77
+"stressed"	-0,8	2,5	79
+"stressed"	4,2	2,1	81
+"mildly stressed"	12,5	2,1	79
+"mildly stressed"	8,6	2,3	90
+"normal"	15,9	2,3	78
+"mildly stressed"	4,9	1,9	75
+"normal"	14,6	2,5	73
+"mildly stressed"	6,8	1,8	77
+"mildly stressed"	4,3	2,3	74
+"mildly stressed"	8,6	2,4	86
+"mildly stressed"	10,8	2,2	81
+"mildly stressed"	3,6	2	79
+"mildly stressed"	6,2	2,3	80
+"mildly stressed"	3,5	2,3	74
+"mildly stressed"	16,3	2,1	94
+"mildly stressed"	14,6	2	85
+"stressed"	4,7	2	85
+"mildly stressed"	13,7	2,2	81
+"mildly stressed"	9,1	2,2	81
+"stressed"	4,3	2,8	84
+"mildly stressed"	12,9	2	83
+"mildly stressed"	8,7	2,5	85
+"normal"	15,5	2,3	77
+"mildly stressed"	9,4	2,4	88
+"normal"	17,2	2,2	71
+"stressed"	7,7	2,6	91
+"mildly stressed"	11,8	1,9	79
+"mildly stressed"	12,6	2,4	81
+"mildly stressed"	12,1	2,4	80
+"mildly stressed"	11,7	2,7	75
+"mildly stressed"	10,5	2,3	77
+"mildly stressed"	10	2,5	89
+"mildly stressed"	18,2	2,5	93
+"normal"	15,7	2,2	74
+"mildly stressed"	7,1	2,3	82
+"normal"	18,4	2,3	77
+"mildly stressed"	11,4	2,7	81
+"mildly stressed"	6,9	2,4	82
+"mildly stressed"	11,5	2,4	77
+"mildly stressed"	9,7	3	82
+"mildly stressed"	11,1	2,5	90
+"mildly stressed"	5,1	2,5	73
+"mildly stressed"	5,9	2,5	78
+"normal"	18,2	2,8	82
+"mildly stressed"	16	2,6	82
+"mildly stressed"	5,6	2,5	80
+"mildly stressed"	5,5	2,2	82
+"normal"	20,3	2,5	79
+"normal"	21,3	2,4	81
+"mildly stressed"	6,2	1,9	80
+"stressed"	3,2	2	86
+"normal"	25,3	1,9	84
+"mildly stressed"	11,8	2,7	80
+"mildly stressed"	11,6	2,5	88
+"mildly stressed"	11	1,7	81
+"normal"	18,5	2,5	84
+"mildly stressed"	9,5	2,4	81
+"normal"	18,8	2,3	76
+"mildly stressed"	9,3	2,2	84
+"normal"	13,4	2	69
+"mildly stressed"	4,7	2,6	74
+"mildly stressed"	11,5	2,2	84
+"mildly stressed"	17,3	2,3	88
+"mildly stressed"	9,6	2,5	71
+"mildly stressed"	17,8	2,5	87
+"zen"	25,9	2,3	72
+"normal"	15,9	2,2	76
+"mildly stressed"	9,1	2,4	72
+"mildly stressed"	11,1	2,1	79
+"mildly stressed"	8,1	2,5	80
+"normal"	22,8	2,4	82
+"stressed"	-6,1	2,4	77
+"mildly stressed"	11	2,3	80
+"mildly stressed"	11,2	1,9	82
+"mildly stressed"	11,7	1,8	74
+"stressed"	1,8	2	76
+"mildly stressed"	11,8	2,5	88
+"normal"	11,6	2,3	62
+"mildly stressed"	17,6	2,2	86
+"mildly stressed"	13,5	2,2	86
+"mildly stressed"	16,8	2,5	88
+"mildly stressed"	5,1	1,9	78
+"mildly stressed"	9,8	2,6	85
+"mildly stressed"	11,6	2,5	81
+"mildly stressed"	12,1	2,1	76
+"mildly stressed"	6,6	2,3	83
+"normal"	18,9	2,6	82
+"mildly stressed"	7,1	2,7	78
+"stressed"	1,4	2,8	77
+"mildly stressed"	12,8	2,5	78
+"mildly stressed"	14,3	2,3	83
+"normal"	15,9	2,5	80
+"mildly stressed"	5,2	2,3	72
+"mildly stressed"	9,1	2,1	82
+"mildly stressed"	3	2,6	78
+"mildly stressed"	15,3	2,6	85
+"normal"	12,5	2,7	73
+"normal"	15,7	2,8	68
+"normal"	14	2,8	77
+"mildly stressed"	7,1	2,6	76
+"mildly stressed"	11,6	2,4	84
+"mildly stressed"	-0,2	2,3	69
+"normal"	13,4	2,3	73
+"normal"	16	2,2	79
+"mildly stressed"	5,6	2,3	75
+"stressed"	-1,5	2,5	79
+"mildly stressed"	2	2,5	73
+"mildly stressed"	4,3	2	75
+"normal"	17,5	2,7	74
+"normal"	10,6	2,7	69
+"stressed"	3,6	2,8	82
+"mildly stressed"	13,7	2	77
+"stressed"	-1,8	2,3	77
+"mildly stressed"	9,1	2,3	87
+"mildly stressed"	16,8	2,2	84
+"mildly stressed"	8,6	2,2	76
+"normal"	17,9	2,2	85
+"normal"	20,7	2,1	78
+"mildly stressed"	4	2,2	77
+"stressed"	4	2,3	81
+"mildly stressed"	5,4	2,4	81
+"mildly stressed"	13,5	2,5	79
+"normal"	15,3	2,6	78
+"normal"	17,4	2,2	82
+"normal"	17,9	2,4	86
+"normal"	16,6	3	78
+"mildly stressed"	15,8	2,2	89
+"mildly stressed"	11,5	2,6	75
+"stressed"	5,5	2,2	92
+"mildly stressed"	6,4	2,7	85
+"mildly stressed"	12,8	2,5	78
+"normal"	20	2,1	67
+"normal"	20,2	2,6	78
+"stressed"	-0,3	2,7	78
+"stressed"	5,8	2,6	89
+"normal"	18,5	1,6	82
+"mildly stressed"	4,5	2,4	69
+"stressed"	1,4	2,8	82
+"normal"	13,9	2,3	74
+"normal"	20,3	2,2	70
+"normal"	21,5	2,3	86
+"mildly stressed"	13,5	1,7	84
+"normal"	14,6	2,1	78
+"mildly stressed"	13,7	2,3	89
+"mildly stressed"	10,4	2,6	78
+"stressed"	-8,5	2,4	70
+"mildly stressed"	14,8	2,5	86
+"mildly stressed"	8,3	2,1	76
+"normal"	16,2	2,8	81
+"mildly stressed"	7	2,7	74
+"mildly stressed"	1,3	2,5	72
+"normal"	17,6	2,3	83
+"mildly stressed"	11,6	2,6	74
+"zen"	30,3	2,2	77
+"mildly stressed"	15,7	2,1	84
+"normal"	16,5	1,8	64
+"normal"	14,9	2,4	74
+"stressed"	7,1	1,7	89
+"mildly stressed"	8,5	2,4	80
+"normal"	16,5	2,5	70
+"normal"	16,5	2,6	80
+"mildly stressed"	13,8	2,6	80
+"mildly stressed"	5	2,5	75
+"normal"	20	2,1	76
+"stressed"	2,8	2,6	80
+"mildly stressed"	8,1	2,4	85
+"normal"	23,7	1,9	75
+"mildly stressed"	13,5	2,3	84
+"normal"	16	1,9	69
+"mildly stressed"	12,7	2,1	92
+"stressed"	4,9	2,2	85
+"mildly stressed"	7,2	2,2	76
+"mildly stressed"	11,5	2,6	79
+"stressed"	-6	2,4	72
+"mildly stressed"	5,8	2,1	74
+"mildly stressed"	15	2,2	82
+"mildly stressed"	8,9	2,2	67
+"mildly stressed"	8,9	2,4	84
+"mildly stressed"	15,4	2,5	85
+"mildly stressed"	7,5	2,3	81
+"normal"	14,1	2,3	75
+"stressed"	2,5	2,5	84
+"mildly stressed"	3,6	2,1	79
+"stressed"	1,1	2,3	91
+"mildly stressed"	11	2,3	83
+"mildly stressed"	9,4	2,2	91
+"normal"	18,7	2,2	76
+"mildly stressed"	10,3	2,3	87
+"normal"	18,2	2,1	86
+"normal"	21,5	2,3	84
+"stressed"	7,8	2	91
+"mildly stressed"	12,7	2,5	87
+"stressed"	5,8	2,2	87
+"mildly stressed"	14,7	2,6	88
+"mildly stressed"	4,5	2,5	76
+"stressed"	4,8	2,2	84
+"mildly stressed"	12,2	2,3	88
+"normal"	11,1	2,5	69
+"mildly stressed"	12	2,6	88
+"mildly stressed"	10,9	2,5	73
+"mildly stressed"	7,6	2,5	71
+"mildly stressed"	9,8	1,9	79
+"normal"	19,7	2,4	70
+"mildly stressed"	10,4	2	75
+"stressed"	3,1	2,4	85
+"mildly stressed"	5,8	2,2	80
+"stressed"	4,3	2,3	88
+"mildly stressed"	5,5	2	82
+"mildly stressed"	3,4	2,3	70
+"stressed"	-4,3	2,8	73
+"mildly stressed"	14,3	2,9	81
+"normal"	14,3	1,7	77
+"mildly stressed"	9,1	1,9	86
+"mildly stressed"	6,5	2	81
+"mildly stressed"	6	2	73
+"mildly stressed"	12,8	2,9	77
+"mildly stressed"	11,8	2,6	86
+"normal"	12,9	2,3	74
+"mildly stressed"	10,6	2,6	71
+"mildly stressed"	14	3	83
+"mildly stressed"	13	2,5	81
+"normal"	13,7	2,8	75
+"mildly stressed"	13,3	2,1	80
+"normal"	19,9	2,1	81
+"mildly stressed"	4,6	2,7	75
+"normal"	19	2,6	82
+"mildly stressed"	8,7	2,6	76
+"mildly stressed"	10,2	2,5	78
+"mildly stressed"	11	2,2	85
+"mildly stressed"	8	2,6	78
+"stressed"	-3,9	2,9	70
+"mildly stressed"	8,8	2,7	78
+"normal"	10,8	2	70
+"stressed"	0,7	2,5	77
+"normal"	13,6	2,4	76
+"stressed"	7,2	2,4	99
+"normal"	18,7	2,3	83
+"mildly stressed"	12	2	83
+"mildly stressed"	6,1	2,5	81
+"mildly stressed"	11,5	2,7	77
+"normal"	12	2,8	64
+"mildly stressed"	15,7	2,5	91
+"mildly stressed"	9,7	2,2	77
+"stressed"	-0,9	2,2	75
+"mildly stressed"	3,2	2,2	76
+"stressed"	5,7	2,5	87
+"mildly stressed"	12,9	2,3	85
+"mildly stressed"	8,9	3,2	88
+"mildly stressed"	7,1	2,3	82
+"mildly stressed"	5,8	2,4	79
+"mildly stressed"	11,4	2,3	78
+"mildly stressed"	5,7	2,2	70
+"mildly stressed"	8,3	2,6	82
+"mildly stressed"	5,2	2,2	78
+"stressed"	2,7	2,4	78
+"mildly stressed"	15,9	2,3	86
+"stressed"	3,1	1,6	87
+"mildly stressed"	11	2,5	95
+"mildly stressed"	7,3	2,4	83
+"mildly stressed"	4,6	2,1	79
+"mildly stressed"	12	2,7	74

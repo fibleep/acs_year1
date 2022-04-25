@@ -110,3 +110,21 @@ function camelize(str) {
 
 console.log(camelize("-sussy-baka"));
 
+function arrayToList(arr){
+    let list = {}
+    if (arr.length === 1){
+        list.value = arr[0]
+        list.rest = null
+        return list
+    }
+
+        list.value = arr[0]
+        arr.shift()
+        list.rest =  arrayToList(arr)
+        return list
+}
+console.log(arrayToList([1,3,4,5]));
+
+function deepEqual(val1,val2){
+
+}

@@ -124,7 +124,40 @@ function arrayToList(arr){
         return list
 }
 console.log(arrayToList([1,3,4,5]));
-
-function deepEqual(val1,val2){
-
+function listToArray(list){
+    let arr = [];
+for(let node = list;node;node=node.rest){
+    arr.push(node.value);
 }
+return arr
+}
+console.log(listToArray(arrayToList([1,3,4,5])));
+
+function deepEqual(x,y){
+    if(typeof x == "object" && x!=null && typeof y == "object" && y!=null){
+        let xKeys = Object.keys(x);
+        let yKeys = Object.keys(y); 
+        if(xKeys.length==yKeys.length){
+            return true;
+        }
+        else{
+            return false;
+        }
+    }
+    else{
+        if(x === y){
+            return true;
+        }
+        else{
+            return false;
+        }
+    }
+}
+
+let obj = {here: {is: "an"}, object: 2};
+console.log(deepEqual(obj, obj));
+// → true
+console.log(deepEqual(obj, {here: 1, object: 2}));
+// → false
+console.log(deepEqual(obj, {here: {is: "an"}, object: 2}));
+// → true

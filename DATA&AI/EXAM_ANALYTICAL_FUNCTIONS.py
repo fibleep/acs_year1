@@ -409,3 +409,4 @@ def create_classes_and_cut(series: pd.Series, increment: int) -> list:
 # #### Converting jupyter notebooks to python scripts
 # 
 # `jupyter nbconvert --to script EXAM_ANALYTICAL_FUNCTIONS.ipynb`
+

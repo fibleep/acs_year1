@@ -3,14 +3,14 @@ IFS='
 '
 user='202122t13-ssh'
 
-if [ ! -e  /home/$user/upload ] 
+if [ ! -e  /home/$user/upload ]
 then
 mkdir /home/$user/upload
 fi
 
-if [ ! -e /var/log ]
+if [ ! -e /home/$user/var/log ]
 then
-mkdir -p /var/log
+mkdir -p /home/$user/var/log
 fi
 
 latest=$(ls /home/$user/upload -lt | head -n2 | tail -n1)
@@ -19,7 +19,6 @@ filename=$(ls /home/$user/upload -lt | head -n2 | tail -n1 | cut -d' ' -f10)
 webPurge=$(ls /web)
 
 # CLEANING PREVIOUS FOLDER
-rm -rf stratego_web &>>/dev/null
 
 for file in $webPurge
 do
@@ -30,8 +29,8 @@ fi
 done
 
 # CLONING AND UNPACKING THE WEBSITE
-git clone git@gitlab.com:fibleep/stratego_web
-mv stratego_web/* /web
+pushd /web/legacy/stratego_web;git pull git@gitlab.com:fibleep/stratego_web;popd
+mv /web/legacy/stratego_web/* /web
 
 # DELETING OLD GAME VERSIONS
 if [ $toDelete -gt 1 ]

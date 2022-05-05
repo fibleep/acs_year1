@@ -17,38 +17,41 @@ filename=$(ls /home/$user/upload -t | head -1)
 webPurge=$(ls /web)
 # DELETING OLD GAME VERSIONS
 
-if [ $toDelete -gt 1 ]
-then
 lof=$(ls /home/$user/upload  -t | tail -n+2)
 for file in $lof
 do
 rm -rf /home/$user/upload/$file
 done
 # LOGGING THE SCRIPT
-    echo -e "LATEST FILE: $filename\nDATE OF UPDATE: $(date)">/home/$user/var/log/scriptlog.txt
-    echo -e "LAST UPDATE: $(date)\nLATEST FILE: $filename\n$(md5sum /home/$user/upload/$filename)\n $(sha512sum /home/$user/upload/$filename)\n$(sha256sum
-/home/$user/upload/$filename)"
-fi
+    echo -e "LATEST FILE: $filename\nDATE OF UPDATE: $(date)\n">/home/$user/var/log/scriptlog.txt
+    echo -e "LAST UPDATE: $(date)\n">/home/$user/var/log/hashcodes.txt
+    echo -e "MD5: $(md5sum /home/$user/upload/$filename | cut -d' ' -f1)\n">>/home/$user/var/log/hashcodes.txt
+    echo -e "SHA256: $(sha256sum /home/$user/upload/$filename | cut -d' ' -f1)\n">>/home/$user/var/log/hashcodes.txt
+    echo -e "SHA512: $(sha512sum /home/$user/upload/$filename | cut -d' ' -f1)">>/home/$user/var/log/hashcodes.txt
 
 
 # CLEANING PREVIOUS FOLDER
 
 for file in $webPurge
 do
-if [[ "$file" != "legacy" ]]
+if [[ "$file" != "legacy" ]] && [[ "$file" != ".htaccess" ]]
 then
 rm -rf /web/$file
+if [ $? ]
+then
+echo -e "$file removed\n" >> /home/$user/var/log/scriptlog.txt
+fi
 fi
 done
 rm -rf /web/$filename &>/dev/null
-cp /home/$user/upload/$filename /web/$filename
+cp /home/$user/upload/$filename /web/stratego.jar
 cp /home/$user/var/log/hashcodes.txt /web/hashcodes.txt
 
 # CLONING AND UNPACKING THE WEBSITE
-pushd /web/legacy/stratego_web;git pull --rebase git@gitlab.com:fibleep/stratego_web;popd
+pushd /web/legacy/stratego_web;git pull --rebase git@gitlab.com:fibleep/stratego_web 2>>/home/$user/var/log/scriptlog.txt;popd
 cp -r /web/legacy/stratego_web/* /web
 
 if [ $? ]
 then
-echo "\n git pull successful!" >> /home/$user/var/log/scriptlog.txt
+echo -e "\n files copied successfully!" >> /home/$user/var/log/scriptlog.txt
 fi

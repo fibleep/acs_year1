@@ -1,0 +1,26 @@
+digraph ID3_Tree {
+"0" [shape=box, style=filled, label="weight
+", weight=1]
+"1" [shape=box, style=filled, label="hair length
+", weight=2]
+0 -> 1 [ label = "<=160"];
+"2" [shape=box, style=filled, label="F
+(1)
+", weight=3]
+1 -> 2 [ label = "3-5"];
+"3" [shape=box, style=filled, label="M
+(1)
+", weight=3]
+1 -> 3 [ label = "<3"];
+"4" [shape=box, style=filled, label="F
+(3)
+", weight=3]
+1 -> 4 [ label = ">5"];
+"5" [shape=box, style=filled, label="M
+(4)
+", weight=2]
+0 -> 5 [ label = ">160"];
+{rank=same; 0;};
+{rank=same; 1;5;};
+{rank=same; 2;3;4;};
+}
